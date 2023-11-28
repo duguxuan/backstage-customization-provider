@@ -41,17 +41,6 @@
     ]
   },
   {
-    "title": "DEVELOPER TOOLS",
-    "isExpanded": true,
-    "links": [
-      {
-        "iconUrl": "/homepage/icons/podman_logo.svg",
-        "label": "Podman Desktop",
-        "url": "https://podman-desktop.io"
-      }
-    ]
-  },
-  {
     "title": "CI/CD TOOLS",
     "isExpanded": true,
     "links": [
